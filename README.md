@@ -1,3 +1,3 @@
 # firstrepo
 this is my firstrepo ked
-author - kedar
+author - kedar (biradar)
